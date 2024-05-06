@@ -43,7 +43,7 @@ However, the remaining flip-flops should be made ready to toggle only when all l
 
 **PROGRAM**
 
-Developed by:SUBASH E
+Developed by: ADITAAYAN M
 
 RegisterNumber:212223040209
 
